@@ -1,0 +1,20 @@
+Titanic model training report
+============================
+
+This file is created by running `python src/train.py`.
+It contains model location and evaluation metrics.
+
+Example (will be overwritten on each training run):
+
+Model path: models/model.joblib
+Accuracy: 0.8500
+
+Classification report:
+					 precision    recall  f1-score   support
+
+			  0       0.86      0.86      0.86         7
+			  1       0.83      0.83      0.83         6
+
+	 accuracy                           0.85        13
+	macro avg       0.85      0.85      0.85        13
+weighted avg       0.85      0.85      0.85        13

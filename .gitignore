@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+venv/
+env/
+/.venv
+
+# IPython
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Data and results (uncomment if you want to track them)
+# /data/
+# /results/
